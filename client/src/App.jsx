@@ -4,7 +4,7 @@ import Controls from './components/Controls';
 import GridView from './components/GridView';
 import ResultsPanel from './components/ResultsPanel';
 import InfoPanel from './components/InfoPanel';
-import { findSafePath } from './utils/pathfinder';
+import { findSafePath } from './utils/pathFinder.js';
 
 function App() {
   // State variables
